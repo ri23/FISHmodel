@@ -1,9 +1,9 @@
-## FISHmodel
+# FISHmodel
 Code used for Ietswaart et al, Cell Systems (2017) in press
 
 Additions will be made soon.
 
-# Stochastic cellular mRNA production and degradation simulations
+## Stochastic simulations of cellular *FLC* mRNA production and degradation
 
 Open `FCA_55.cpp` in text editor and search in `int main()`: 
 choose whether you want to simulate
@@ -21,4 +21,8 @@ To run simulations:
 `g++ -O3 -o FCA_55 FCA_55.cpp`
  
 `./sFCA_55.sh` 
+
+## Stochastic simulations of *FLC* transcription
+
+
 
