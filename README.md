@@ -36,4 +36,17 @@ To run simulations:
  
 `./sFCA_52.sh` 
 
+## Cell area estimation of Z projection and cellular mRNA counting
+
+This python script requires the JIC-CSB image analysis toolkit that can be installed by following the instructions on: 
+https://github.com/JIC-CSB/FISHcount
+
+To run 3D segmentation: 
+
+`python ./scripts/3Dseg.py input_data_folder/z_stack_data_file --cell-level-threshold 0.6  --verbose 1`
+
+## Cell volume estimation using segmentation of Z stack
+
+
+3Dseg.py and count_and_annotate.py have been developed by Matthew Hartley and Tjelvar Olsson, affiliated with the John Innes Centre. The code is made available here with their approval.
 
