@@ -9,7 +9,9 @@ Open `FCA_55.cpp` in text editor and search in `int main()`:
 choose whether you want to simulate
 
 ON/OFF production with burst size ~ volume (scenario 1)
+
 ON/OFF production with burst frequency ~ cell volume (scenario 2)
+
 Poisson production (scenario 3)
 
 by commenting out scenario 1, 2 or 3.
