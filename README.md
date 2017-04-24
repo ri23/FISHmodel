@@ -1,7 +1,6 @@
 # FISHmodel
 Code used for Ietswaart et al, Cell Systems (2017), accepted for publication
 
-Additions will be made soon.
 
 ## Stochastic simulations of cellular *FLC* mRNA production and degradation
 
