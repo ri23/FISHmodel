@@ -14,7 +14,7 @@ ON/OFF production with burst frequency ~ cell volume (scenario 2)
 
 Poisson production (scenario 3)
 
-by commenting out scenario 1, 2 or 3.
+by uncommenting the chosen scenario and commenting out the other two.
 
 To run simulations: 
 
