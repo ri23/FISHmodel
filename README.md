@@ -26,7 +26,14 @@ To run simulations:
  
 `./sFCA_55.sh` 
 
-## Stochastic simulations of *FLC* transcription
+## Stochastic simulations of *FLC* transcription for estimation of rate for mRNA release from locus
 
+To run simulations: 
+
+`chmod 755 sFCA_52.sh`
+
+`g++ -O3 -o FCA_52 FCA_52.cpp`
+ 
+`./sFCA_52.sh` 
 
 
