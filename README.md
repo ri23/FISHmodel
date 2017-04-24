@@ -3,7 +3,7 @@ Code used for Ietswaart et al, Cell Systems (2017) in press
 
 Additions will be made soon.
 
-#Stochastic cellular mRNA production and degradation simulations
+# Stochastic cellular mRNA production and degradation simulations
 
 Open `FCA_55.cpp` in text editor and search in `int main()`: 
 choose whether you want to simulate
