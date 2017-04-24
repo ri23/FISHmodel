@@ -16,6 +16,8 @@ Poisson production (scenario 3)
 
 by uncommenting the chosen scenario and commenting out the other two.
 
+Save these edits.
+
 To run simulations: 
 
 `chmod 755 sFCA_55.sh`
