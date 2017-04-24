@@ -53,5 +53,5 @@ To run 3D segmentation:
 
 `python scripts/3Dseg.py input_data_folder/z_stack_data_file --cell-level-threshold 0.6  --verbose 1`
 
-`3Dseg.py` and `count_and_annotate.py` have been developed by Matthew Hartley and Tjelvar Olsson, affiliated with the John Innes Centre (JIC-CSB). The code is made available here with their approval.
+`3Dseg.py` and `count_and_annotate.py` have been developed by Matthew Hartley and Tjelvar Olsson, affiliated with the John Innes Centre (JIC-CSB). The code is made available here with their permission.
 
