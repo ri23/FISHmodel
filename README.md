@@ -1,9 +1,11 @@
-# FISHmodel
+## FISHmodel
 Code used for Ietswaart et al, Cell Systems (2017) in press
 
 Additions will be made soon.
 
-Open FCA_55.cpp in text editor and search in int main(): 
+#Stochastic cellular mRNA production and degradation simulations
+
+Open `FCA_55.cpp` in text editor and search in `int main()`: 
 choose whether you want to simulate
 
 ON/OFF production with burst size ~ volume (scenario 1)
@@ -12,11 +14,11 @@ Poisson production (scenario 3)
 
 by commenting out scenario 1, 2 or 3.
 
-To run mRNA production and degradation simulations: 
+To run simulations: 
 
-chmod 755 sFCA_55.sh
+`chmod 755 sFCA_55.sh`
 
-g++ -O3 -o FCA_55 FCA_55.cpp
+`g++ -O3 -o FCA_55 FCA_55.cpp`
  
-./sFCA_55.sh 
+`./sFCA_55.sh` 
 
