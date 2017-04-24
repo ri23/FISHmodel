@@ -48,5 +48,6 @@ To run 3D segmentation:
 ## Cell volume estimation using segmentation of Z stack
 
 
-3Dseg.py and count_and_annotate.py have been developed by Matthew Hartley and Tjelvar Olsson, affiliated with the John Innes Centre. The code is made available here with their approval.
+
+`3Dseg.py` and `count_and_annotate.py` have been developed by Matthew Hartley and Tjelvar Olsson, affiliated with the John Innes Centre (JIC-CSB). The code is made available here with their approval.
 
